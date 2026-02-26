@@ -1,4 +1,4 @@
-import { useMemo, useState, useCallback } from "react";
+import { useState, useCallback } from "react";
 import { Search, ShoppingBag, Menu, X } from "lucide-react";
 import logo from "../assets/esencia_perfume.jpg";
 import type { GenderFilter } from "../types";

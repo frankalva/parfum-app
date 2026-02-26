@@ -1,5 +1,5 @@
 import { useEffect, useCallback } from "react";
-import { X, MessageCircle, ShoppingBag, ShoppingCart } from "lucide-react";
+import { X, ShoppingCart } from "lucide-react";
 import type { Perfume } from "../types";
 import { formatPrice } from "../data";
 
