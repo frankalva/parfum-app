@@ -31,64 +31,64 @@
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "81.194232436887%",
-          "opacity": 83.880770660189
+          "width": "81.200637869172%",
+          "opacity": 83.886261030719
         },
         {
           "name": "amielado",
           "background": "#FAA907",
           "textColor": "#000000",
-          "width": "70.551279496281%",
-          "opacity": 74.758239568241
+          "width": "70.56099085218%",
+          "opacity": 74.766563587583
         },
         {
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "60.4105375985%",
-          "opacity": 66.066175084429
+          "width": "60.422911571076%",
+          "opacity": 66.076781346637
         },
         {
           "name": "ámbar",
           "background": "#bc4d10",
           "textColor": "#FFFFFF",
-          "width": "59.379346005311%",
-          "opacity": 65.182296575981
+          "width": "59.382818476656%",
+          "opacity": 65.185272979991
         },
         {
           "name": "lavanda",
           "background": "#9B7DB8",
           "textColor": "#000000",
-          "width": "54.146849869923%",
-          "opacity": 60.697299888505
+          "width": "54.158594532858%",
+          "opacity": 60.70736674245
         },
         {
           "name": "tabaco",
           "background": "#ad7727",
           "textColor": "#FFFFFF",
-          "width": "50.19778195509%",
-          "opacity": 57.312384532934
+          "width": "50.20224331692%",
+          "opacity": 57.31620855736
         },
         {
           "name": "verde",
           "background": "#0E8C1D",
           "textColor": "#FFFFFF",
-          "width": "48.504139309164%",
-          "opacity": 55.860690836426
+          "width": "48.516900300617%",
+          "opacity": 55.871628829101
         },
         {
           "name": "fresco especiado",
           "background": "#83C928",
           "textColor": "#000000",
-          "width": "46.496049208495%",
-          "opacity": 54.139470750139
+          "width": "46.506103933886%",
+          "opacity": 54.148089086188
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "45.848302533139%",
-          "opacity": 53.584259314119
+          "width": "45.849163335452%",
+          "opacity": 53.584997144673
         }
       ]
     },
@@ -192,43 +192,43 @@
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "88.376692820008%",
-          "opacity": 90.037165274292
+          "width": "88.347659475367%",
+          "opacity": 90.012279550314
         },
         {
           "name": "avainillado",
           "background": "#FFFEC0",
           "textColor": "#000000",
-          "width": "81.396927247123%",
-          "opacity": 84.054509068962
+          "width": "81.357366671607%",
+          "opacity": 84.020600004234
         },
         {
           "name": "canela",
           "background": "#D2691E",
           "textColor": "#FFFFFF",
-          "width": "63.681426892411%",
-          "opacity": 68.86979447921
+          "width": "63.689528507611%",
+          "opacity": 68.87673872081
         },
         {
           "name": "café",
           "background": "#503B1D",
           "textColor": "#FFFFFF",
-          "width": "60.632921444681%",
-          "opacity": 66.256789809726
+          "width": "60.617312048779%",
+          "opacity": 66.243410327525
         },
         {
           "name": "ámbar",
           "background": "#bc4d10",
           "textColor": "#FFFFFF",
-          "width": "52.060713869742%",
-          "opacity": 58.909183316921
+          "width": "52.070533313573%",
+          "opacity": 58.917599983063
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "45.121343032305%",
-          "opacity": 52.961151170547
+          "width": "45.106916774289%",
+          "opacity": 52.948785806534
         }
       ]
     },
@@ -339,155 +339,155 @@
           "name": "ámbar",
           "background": "#bc4d10",
           "textColor": "#FFFFFF",
-          "width": "62.937548696434%",
-          "opacity": 68.232184596943
+          "width": "62.942015607955%",
+          "opacity": 68.236013378247
         },
         {
           "name": "cálido especiado",
           "background": "#CC3300",
           "textColor": "#FFFFFF",
-          "width": "59.48181000899%",
-          "opacity": 65.270122864849
+          "width": "59.488965343627%",
+          "opacity": 65.276256008823
         },
         {
           "name": "afrutados",
           "background": "#FC4B29",
           "textColor": "#000000",
-          "width": "56.548816302068%",
-          "opacity": 62.756128258915
+          "width": "56.565410757741%",
+          "opacity": 62.770352078064
         },
         {
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "55.023374288283%",
-          "opacity": 61.448606532814
+          "width": "55.036922044139%",
+          "opacity": 61.460218894976
         },
         {
           "name": "canela",
           "background": "#D2691E",
           "textColor": "#FFFFFF",
-          "width": "54.91009889122%",
-          "opacity": 61.351513335331
+          "width": "54.908953595704%",
+          "opacity": 61.35053165346
         },
         {
           "name": "lavanda",
           "background": "#9B7DB8",
           "textColor": "#000000",
-          "width": "53.420317650584%",
-          "opacity": 60.074557986215
+          "width": "53.421582613074%",
+          "opacity": 60.075642239778
         },
         {
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "50.977344920587%",
-          "opacity": 57.980581360503
+          "width": "50.981790719141%",
+          "opacity": 57.984392044978
         },
         {
           "name": "fresco",
           "background": "#9be5ed",
           "textColor": "#000000",
-          "width": "50.932873838777%",
-          "opacity": 57.942463290381
+          "width": "50.937316438701%",
+          "opacity": 57.946271233172
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "50.404674857657%",
-          "opacity": 57.489721306563
+          "width": "50.393974993706%",
+          "opacity": 57.480549994606
         }
       ]
     },
     {
-      "id": 70706,
+      "id": 78611,
       "index": 5,
       "name": "AFNAN AM DIVE 100 ML",
       "brand": "Afnan",
       "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.2048.jpg",
       "price": 165,
       "currency": "PEN",
-      "gender": "Mujer",
-      "image": "https://fimgs.net/mdimg/perfume-thumbs/375x500.70706.2x.jpg",
-      "url": "https://www.fragrantica.es/perfume/Afnan/9am-70706.html",
+      "gender": "Hombre",
+      "image": "https://fimgs.net/mdimg/perfume-thumbs/375x500.78611.2x.jpg",
+      "url": "https://www.fragrantica.es/perfume/Afnan/9am-Dive-78611.html",
       "accords": [
         {
-          "name": "cítrico",
-          "background": "#F9FF52",
+          "name": "afrutados",
+          "background": "#FC4B29",
           "textColor": "#000000",
           "width": "100%",
           "opacity": 100.0
-        },
-        {
-          "name": "cítrico",
-          "background": "#F9FF52",
-          "textColor": "#000000",
-          "width": "100%",
-          "opacity": 100.0
-        },
-        {
-          "name": "almizclado",
-          "background": "#E7D8EA",
-          "textColor": "#000000",
-          "width": "63.086949703593%",
-          "opacity": 68.36024260308
-        },
-        {
-          "name": "aromático",
-          "background": "#37a089",
-          "textColor": "#000000",
-          "width": "59.956510791685%",
-          "opacity": 65.677009250015
-        },
-        {
-          "name": "amaderado",
-          "background": "#774414",
-          "textColor": "#FFFFFF",
-          "width": "58.347807649153%",
-          "opacity": 64.298120842131
-        },
-        {
-          "name": "cálido especiado",
-          "background": "#CC3300",
-          "textColor": "#FFFFFF",
-          "width": "54.130431181475%",
-          "opacity": 60.683226726979
-        },
-        {
-          "name": "lavanda",
-          "background": "#9B7DB8",
-          "textColor": "#000000",
-          "width": "51.304339423442%",
-          "opacity": 58.26086236295
-        },
-        {
-          "name": "musgoso",
-          "background": "#5B6B32",
-          "textColor": "#FFFFFF",
-          "width": "47.39131010964%",
-          "opacity": 54.906837236834
-        },
-        {
-          "name": "atalcado",
-          "background": "#EEDDCC",
-          "textColor": "#000000",
-          "width": "47.347826423062%",
-          "opacity": 54.869565505482
         },
         {
           "name": "afrutados",
           "background": "#FC4B29",
           "textColor": "#000000",
-          "width": "46.956511896032%",
-          "opacity": 54.534153053742
+          "width": "100%",
+          "opacity": 100.0
         },
         {
-          "name": "terrosos",
-          "background": "#544838",
+          "name": "verde",
+          "background": "#0E8C1D",
           "textColor": "#FFFFFF",
-          "width": "46.869544522878%",
-          "opacity": 54.459609591038
+          "width": "97.796215403816%",
+          "opacity": 98.1110417747
+        },
+        {
+          "name": "amaderado",
+          "background": "#774414",
+          "textColor": "#FFFFFF",
+          "width": "97.292335006196%",
+          "opacity": 97.679144291025
+        },
+        {
+          "name": "fresco especiado",
+          "background": "#83C928",
+          "textColor": "#000000",
+          "width": "87.425138648409%",
+          "opacity": 89.221547412922
+        },
+        {
+          "name": "cítrico",
+          "background": "#F9FF52",
+          "textColor": "#000000",
+          "width": "86.709616179017%",
+          "opacity": 88.608242439157
+        },
+        {
+          "name": "aromático",
+          "background": "#37a089",
+          "textColor": "#000000",
+          "width": "86.390307355617%",
+          "opacity": 88.334549161957
+        },
+        {
+          "name": "fresco",
+          "background": "#9be5ed",
+          "textColor": "#000000",
+          "width": "81.270291886761%",
+          "opacity": 83.945964474367
+        },
+        {
+          "name": "especiado suave",
+          "background": "#E27752",
+          "textColor": "#000000",
+          "width": "56.031359589372%",
+          "opacity": 62.312593933748
+        },
+        {
+          "name": "cálido especiado",
+          "background": "#CC3300",
+          "textColor": "#FFFFFF",
+          "width": "55.446267699096%",
+          "opacity": 61.811086599225
+        },
+        {
+          "name": "balsámico",
+          "background": "#ad8359",
+          "textColor": "#000000",
+          "width": "49.391704826107%",
+          "opacity": 56.62146127952
         }
       ]
     },
@@ -787,50 +787,50 @@
           "name": "cálido especiado",
           "background": "#CC3300",
           "textColor": "#FFFFFF",
-          "width": "75.454816285998%",
-          "opacity": 78.961271102284
+          "width": "75.519379682835%",
+          "opacity": 79.016611156716
         },
         {
           "name": "afrutados",
           "background": "#FC4B29",
           "textColor": "#000000",
-          "width": "66.152093242043%",
-          "opacity": 70.987508493179
+          "width": "66.138441991666%",
+          "opacity": 70.975807421428
         },
         {
           "name": "avainillado",
           "background": "#FFFEC0",
           "textColor": "#000000",
-          "width": "62.303977421209%",
-          "opacity": 67.689123503894
+          "width": "62.321797372122%",
+          "opacity": 67.704397747533
         },
         {
           "name": "amaderado",
           "background": "#774414",
           "textColor": "#FFFFFF",
-          "width": "54.313228453457%",
-          "opacity": 60.839910102963
+          "width": "54.304208473415%",
+          "opacity": 60.832178691499
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "51.711231902995%",
-          "opacity": 58.609627345424
+          "width": "51.709636771465%",
+          "opacity": 58.608260089827
         },
         {
           "name": "canela",
           "background": "#D2691E",
           "textColor": "#FFFFFF",
-          "width": "51.055610724926%",
-          "opacity": 58.04766633565
+          "width": "51.04754335789%",
+          "opacity": 58.04075144962
         },
         {
           "name": "tropical",
           "background": "#f6af09",
           "textColor": "#000000",
-          "width": "50.084618198923%",
-          "opacity": 57.215387027649
+          "width": "50.076912217592%",
+          "opacity": 57.208781900793
         }
       ]
     },
@@ -864,43 +864,43 @@
           "name": "caramelo",
           "background": "#DDA356",
           "textColor": "#000000",
-          "width": "74.605740808599%",
-          "opacity": 78.233492121656
+          "width": "74.509821106859%",
+          "opacity": 78.15127523445
         },
         {
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "73.555441553683%",
-          "opacity": 77.333235617442
+          "width": "73.429353277435%",
+          "opacity": 77.225159952087
         },
         {
           "name": "ámbar",
           "background": "#bc4d10",
           "textColor": "#FFFFFF",
-          "width": "58.651520703554%",
-          "opacity": 64.558446317332
+          "width": "58.398580151334%",
+          "opacity": 64.341640129715
         },
         {
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "54.789251251985%",
-          "opacity": 61.247929644558
+          "width": "54.67965760028%",
+          "opacity": 61.153992228812
         },
         {
           "name": "avainillado",
           "background": "#FFFEC0",
           "textColor": "#000000",
-          "width": "49.211823622817%",
-          "opacity": 56.467277390986
+          "width": "49.055430580307%",
+          "opacity": 56.333226211692
         },
         {
           "name": "amaderado",
           "background": "#774414",
           "textColor": "#FFFFFF",
-          "width": "46.864981067546%",
-          "opacity": 54.455698057897
+          "width": "46.738730316398%",
+          "opacity": 54.347483128341
         }
       ]
     }
