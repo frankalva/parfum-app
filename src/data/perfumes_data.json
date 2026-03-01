@@ -1,5 +1,5 @@
 {
-  "totalPerfumes": 11,
+  "totalPerfumes": 13,
   "perfumes": [
     {
       "id": 81642,
@@ -31,64 +31,64 @@
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "81.200637869172%",
-          "opacity": 83.886261030719
+          "width": "81.194491272103%",
+          "opacity": 83.880992518945
         },
         {
           "name": "amielado",
           "background": "#FAA907",
           "textColor": "#000000",
-          "width": "70.56099085218%",
-          "opacity": 74.766563587583
+          "width": "70.552488568366%",
+          "opacity": 74.759275915743
         },
         {
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "60.422911571076%",
-          "opacity": 66.076781346637
+          "width": "60.393819108198%",
+          "opacity": 66.051844949884
         },
         {
           "name": "ámbar",
           "background": "#bc4d10",
           "textColor": "#FFFFFF",
-          "width": "59.382818476656%",
-          "opacity": 65.185272979991
+          "width": "59.381533804782%",
+          "opacity": 65.18417183267
         },
         {
           "name": "lavanda",
           "background": "#9B7DB8",
           "textColor": "#000000",
-          "width": "54.158594532858%",
-          "opacity": 60.70736674245
+          "width": "54.173825463594%",
+          "opacity": 60.720421825938
         },
         {
           "name": "tabaco",
           "background": "#ad7727",
           "textColor": "#FFFFFF",
-          "width": "50.20224331692%",
-          "opacity": 57.31620855736
+          "width": "50.198202176992%",
+          "opacity": 57.312744723136
         },
         {
           "name": "verde",
           "background": "#0E8C1D",
           "textColor": "#FFFFFF",
-          "width": "48.516900300617%",
-          "opacity": 55.871628829101
+          "width": "48.467703278415%",
+          "opacity": 55.829459952927
         },
         {
           "name": "fresco especiado",
           "background": "#83C928",
           "textColor": "#000000",
-          "width": "46.506103933886%",
-          "opacity": 54.148089086188
+          "width": "46.486112382789%",
+          "opacity": 54.130953470962
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "45.849163335452%",
-          "opacity": 53.584997144673
+          "width": "45.848957014903%",
+          "opacity": 53.584820298488
         }
       ]
     },
@@ -97,7 +97,7 @@
       "index": 1,
       "name": "KHAMRAH DUKHAN 100 ML",
       "brand": "Lattafa Perfumes",
-      "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.1979.jpg?t=1769619909",
+      "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.1979.jpg",
       "price": 180,
       "currency": "PEN",
       "gender": "Hombre",
@@ -167,7 +167,7 @@
       "index": 2,
       "name": "KHAMRAH QAHWA 100 ML",
       "brand": "Lattafa Perfumes",
-      "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.1979.jpg?t=1769619909",
+      "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.1979.jpg",
       "price": 165,
       "currency": "PEN",
       "gender": "Hombre",
@@ -192,43 +192,43 @@
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "88.347659475367%",
-          "opacity": 90.012279550314
+          "width": "88.308520093962%",
+          "opacity": 89.978731509111
         },
         {
           "name": "avainillado",
           "background": "#FFFEC0",
           "textColor": "#000000",
-          "width": "81.357366671607%",
-          "opacity": 84.020600004234
+          "width": "81.353035786088%",
+          "opacity": 84.016887816647
         },
         {
           "name": "canela",
           "background": "#D2691E",
           "textColor": "#FFFFFF",
-          "width": "63.689528507611%",
-          "opacity": 68.87673872081
+          "width": "63.690083169323%",
+          "opacity": 68.877214145134
         },
         {
           "name": "café",
           "background": "#503B1D",
           "textColor": "#FFFFFF",
-          "width": "60.617312048779%",
-          "opacity": 66.243410327525
+          "width": "60.611389753032%",
+          "opacity": 66.238334074027
         },
         {
           "name": "ámbar",
           "background": "#bc4d10",
           "textColor": "#FFFFFF",
-          "width": "52.070533313573%",
-          "opacity": 58.917599983063
+          "width": "52.071561593973%",
+          "opacity": 58.918481366262
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "45.106916774289%",
-          "opacity": 52.948785806534
+          "width": "45.095337862146%",
+          "opacity": 52.938861024697
         }
       ]
     },
@@ -238,7 +238,7 @@
       "name": "VALENTINO BORN IN ROMA INTENSE 100 ML",
       "brand": "Valentino",
       "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.100.jpg",
-      "price": 470,
+      "price": 490,
       "currency": "PEN",
       "gender": "Hombre",
       "image": "https://fimgs.net/mdimg/perfume-thumbs/375x500.78740.2x.jpg",
@@ -262,50 +262,50 @@
           "name": "avainillado",
           "background": "#FFFEC0",
           "textColor": "#000000",
-          "width": "98.999975761689%",
-          "opacity": 99.142836367162
+          "width": "98.96094015023%",
+          "opacity": 99.109377271626
         },
         {
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "81.891315413142%",
-          "opacity": 84.478270354122
+          "width": "81.878701235764%",
+          "opacity": 84.467458202084
         },
         {
           "name": "amaderado",
           "background": "#774414",
           "textColor": "#FFFFFF",
-          "width": "53.891315413142%",
-          "opacity": 60.478270354122
+          "width": "53.878701235764%",
+          "opacity": 60.467458202084
         },
         {
           "name": "fresco especiado",
           "background": "#83C928",
           "textColor": "#000000",
-          "width": "50.999830331822%",
-          "opacity": 57.999854570134
+          "width": "51%",
+          "opacity": 58.0
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "50.699856993965%",
-          "opacity": 57.742734566255
+          "width": "50.688248122123%",
+          "opacity": 57.732784104677
         },
         {
           "name": "terrosos",
           "background": "#544838",
           "textColor": "#FFFFFF",
-          "width": "50.478270354122%",
-          "opacity": 57.552803160676
+          "width": "50.467409740732%",
+          "opacity": 57.543494063484
         },
         {
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "47.300046052791%",
-          "opacity": 54.828610902392
+          "width": "47.292221952992%",
+          "opacity": 54.821904531136
         }
       ]
     },
@@ -339,64 +339,64 @@
           "name": "ámbar",
           "background": "#bc4d10",
           "textColor": "#FFFFFF",
-          "width": "62.942015607955%",
-          "opacity": 68.236013378247
+          "width": "62.934260331248%",
+          "opacity": 68.229365998212
         },
         {
           "name": "cálido especiado",
           "background": "#CC3300",
           "textColor": "#FFFFFF",
-          "width": "59.488965343627%",
-          "opacity": 65.276256008823
+          "width": "59.465816452013%",
+          "opacity": 65.256414101726
         },
         {
           "name": "afrutados",
           "background": "#FC4B29",
           "textColor": "#000000",
-          "width": "56.565410757741%",
-          "opacity": 62.770352078064
+          "width": "56.624715811953%",
+          "opacity": 62.821184981674
         },
         {
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "55.036922044139%",
-          "opacity": 61.460218894976
+          "width": "55.046279910979%",
+          "opacity": 61.468239923697
         },
         {
           "name": "canela",
           "background": "#D2691E",
           "textColor": "#FFFFFF",
-          "width": "54.908953595704%",
-          "opacity": 61.35053165346
+          "width": "54.882095703137%",
+          "opacity": 61.327510602689
         },
         {
           "name": "lavanda",
           "background": "#9B7DB8",
           "textColor": "#000000",
-          "width": "53.421582613074%",
-          "opacity": 60.075642239778
+          "width": "53.479601446885%",
+          "opacity": 60.125372668758
         },
         {
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "50.981790719141%",
-          "opacity": 57.984392044978
+          "width": "51.004660983906%",
+          "opacity": 58.003995129062
         },
         {
           "name": "fresco",
           "background": "#9be5ed",
           "textColor": "#000000",
-          "width": "50.937316438701%",
-          "opacity": 57.946271233172
+          "width": "50.996262814706%",
+          "opacity": 57.99679669832
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "50.393974993706%",
-          "opacity": 57.480549994606
+          "width": "50.39663353389%",
+          "opacity": 57.482828743334
         }
       ]
     },
@@ -430,64 +430,64 @@
           "name": "verde",
           "background": "#0E8C1D",
           "textColor": "#FFFFFF",
-          "width": "97.796215403816%",
-          "opacity": 98.1110417747
+          "width": "97.55177935476%",
+          "opacity": 97.901525161223
         },
         {
           "name": "amaderado",
           "background": "#774414",
           "textColor": "#FFFFFF",
-          "width": "97.292335006196%",
-          "opacity": 97.679144291025
+          "width": "96.91476422565%",
+          "opacity": 97.355512193415
         },
         {
           "name": "fresco especiado",
           "background": "#83C928",
           "textColor": "#000000",
-          "width": "87.425138648409%",
-          "opacity": 89.221547412922
+          "width": "87.241321981397%",
+          "opacity": 89.063990269769
         },
         {
           "name": "cítrico",
           "background": "#F9FF52",
           "textColor": "#000000",
-          "width": "86.709616179017%",
-          "opacity": 88.608242439157
+          "width": "86.277836598619%",
+          "opacity": 88.238145655959
         },
         {
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "86.390307355617%",
-          "opacity": 88.334549161957
+          "width": "86.042631012487%",
+          "opacity": 88.036540867846
         },
         {
           "name": "fresco",
           "background": "#9be5ed",
           "textColor": "#000000",
-          "width": "81.270291886761%",
-          "opacity": 83.945964474367
+          "width": "81.17620293482%",
+          "opacity": 83.865316801274
         },
         {
           "name": "especiado suave",
           "background": "#E27752",
           "textColor": "#000000",
-          "width": "56.031359589372%",
-          "opacity": 62.312593933748
+          "width": "56.082094449743%",
+          "opacity": 62.356080956923
         },
         {
           "name": "cálido especiado",
           "background": "#CC3300",
           "textColor": "#FFFFFF",
-          "width": "55.446267699096%",
-          "opacity": 61.811086599225
+          "width": "55.247237121882%",
+          "opacity": 61.640488961613
         },
         {
           "name": "balsámico",
           "background": "#ad8359",
           "textColor": "#000000",
-          "width": "49.391704826107%",
-          "opacity": 56.62146127952
+          "width": "49.217643919043%",
+          "opacity": 56.472266216323
         }
       ]
     },
@@ -521,64 +521,64 @@
           "name": "florales",
           "background": "#FF5F8D",
           "textColor": "#000000",
-          "width": "75.016974460832%",
-          "opacity": 78.585978109285
+          "width": "75.002006971586%",
+          "opacity": 78.573148832788
         },
         {
           "name": "amaderado",
           "background": "#774414",
           "textColor": "#FFFFFF",
-          "width": "70.238980687149%",
-          "opacity": 74.490554874699
+          "width": "70.221471074962%",
+          "opacity": 74.475546635682
         },
         {
           "name": "almizclado",
           "background": "#E7D8EA",
           "textColor": "#000000",
-          "width": "69.062601248081%",
-          "opacity": 73.482229641212
+          "width": "69.021161226717%",
+          "opacity": 73.446709622901
         },
         {
           "name": "especiado suave",
           "background": "#E27752",
           "textColor": "#000000",
-          "width": "66.560946062066%",
-          "opacity": 71.337953767485
+          "width": "66.553008696877%",
+          "opacity": 71.331150311609
         },
         {
           "name": "fresco especiado",
           "background": "#83C928",
           "textColor": "#000000",
-          "width": "60.775683556607%",
-          "opacity": 66.379157334235
+          "width": "60.756522657653%",
+          "opacity": 66.36273370656
         },
         {
           "name": "ámbar",
           "background": "#bc4d10",
           "textColor": "#FFFFFF",
-          "width": "60.449294961191%",
-          "opacity": 66.099395681021
+          "width": "60.418365550509%",
+          "opacity": 66.072884757579
         },
         {
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "59.491822676753%",
-          "opacity": 65.278705151502
+          "width": "59.500510545403%",
+          "opacity": 65.28615189606
         },
         {
           "name": "cálido especiado",
           "background": "#CC3300",
           "textColor": "#FFFFFF",
-          "width": "55.260110721379%",
-          "opacity": 61.651523475468
+          "width": "55.261716136756%",
+          "opacity": 61.652899545791
         },
         {
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "54.934215160095%",
-          "opacity": 61.372184422939
+          "width": "54.937854300905%",
+          "opacity": 61.37530368649
         }
       ]
     },
@@ -696,64 +696,64 @@
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "94.741475895716%",
-          "opacity": 95.4926936249
+          "width": "94.559096461033%",
+          "opacity": 95.336368395171
         },
         {
           "name": "verde",
           "background": "#0E8C1D",
           "textColor": "#FFFFFF",
-          "width": "80.006595205365%",
-          "opacity": 82.862795890313
+          "width": "79.87420884821%",
+          "opacity": 82.749321869894
         },
         {
           "name": "avainillado",
           "background": "#FFFEC0",
           "textColor": "#000000",
-          "width": "74.620696231198%",
-          "opacity": 78.246311055312
+          "width": "74.567107120763%",
+          "opacity": 78.200377532082
         },
         {
           "name": "amaderado",
           "background": "#774414",
           "textColor": "#FFFFFF",
-          "width": "72.734546957068%",
-          "opacity": 76.629611677487
+          "width": "72.597277961961%",
+          "opacity": 76.511952538824
         },
         {
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "71.217172961247%",
-          "opacity": 75.329005395355
+          "width": "71.235941688742%",
+          "opacity": 75.345092876065
         },
         {
           "name": "fresco especiado",
           "background": "#83C928",
           "textColor": "#000000",
-          "width": "66.841373391922%",
-          "opacity": 71.578320050219
+          "width": "66.720546945639%",
+          "opacity": 71.474754524833
         },
         {
           "name": "gourmand",
           "background": "#f0cb7a",
           "textColor": "#000000",
-          "width": "63.34496102472%",
-          "opacity": 68.581395164046
+          "width": "63.382719182754%",
+          "opacity": 68.613759299503
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "55.186294686489%",
-          "opacity": 61.588252588419
+          "width": "55.129756824923%",
+          "opacity": 61.53979156422
         },
         {
           "name": "afrutados",
           "background": "#FC4B29",
           "textColor": "#000000",
-          "width": "54.572225444779%",
-          "opacity": 61.061907524096
+          "width": "54.586221665265%",
+          "opacity": 61.073904284513
         }
       ]
     },
@@ -762,7 +762,7 @@
       "index": 9,
       "name": "HONOR Y GLORY 100 ML",
       "brand": "Lattafa Perfumes",
-      "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.1979.jpg?t=1769619909",
+      "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.1979.jpg",
       "price": 170,
       "currency": "PEN",
       "gender": "Hombre",
@@ -787,50 +787,50 @@
           "name": "cálido especiado",
           "background": "#CC3300",
           "textColor": "#FFFFFF",
-          "width": "75.519379682835%",
-          "opacity": 79.016611156716
+          "width": "75.533746052329%",
+          "opacity": 79.02892518771
         },
         {
           "name": "afrutados",
           "background": "#FC4B29",
           "textColor": "#000000",
-          "width": "66.138441991666%",
-          "opacity": 70.975807421428
+          "width": "66.14487691632%",
+          "opacity": 70.981323071131
         },
         {
           "name": "avainillado",
           "background": "#FFFEC0",
           "textColor": "#000000",
-          "width": "62.321797372122%",
-          "opacity": 67.704397747533
+          "width": "62.278721268274%",
+          "opacity": 67.667475372807
         },
         {
           "name": "amaderado",
           "background": "#774414",
           "textColor": "#FFFFFF",
-          "width": "54.304208473415%",
-          "opacity": 60.832178691499
+          "width": "54.290569510384%",
+          "opacity": 60.820488151758
         },
         {
           "name": "atalcado",
           "background": "#EEDDCC",
           "textColor": "#000000",
-          "width": "51.709636771465%",
-          "opacity": 58.608260089827
+          "width": "51.698858051158%",
+          "opacity": 58.599021186707
         },
         {
           "name": "canela",
           "background": "#D2691E",
           "textColor": "#FFFFFF",
-          "width": "51.04754335789%",
-          "opacity": 58.04075144962
+          "width": "51.115439315667%",
+          "opacity": 58.098947984858
         },
         {
           "name": "tropical",
           "background": "#f6af09",
           "textColor": "#000000",
-          "width": "50.076912217592%",
-          "opacity": 57.208781900793
+          "width": "50.080731181896%",
+          "opacity": 57.212055298768
         }
       ]
     },
@@ -864,43 +864,218 @@
           "name": "caramelo",
           "background": "#DDA356",
           "textColor": "#000000",
-          "width": "74.509821106859%",
-          "opacity": 78.15127523445
+          "width": "74.575116284733%",
+          "opacity": 78.207242529771
         },
         {
           "name": "dulce",
           "background": "#ee363b",
           "textColor": "#FFFFFF",
-          "width": "73.429353277435%",
-          "opacity": 77.225159952087
+          "width": "73.455470861846%",
+          "opacity": 77.247546453011
         },
         {
           "name": "ámbar",
           "background": "#bc4d10",
           "textColor": "#FFFFFF",
-          "width": "58.398580151334%",
-          "opacity": 64.341640129715
+          "width": "58.398558312836%",
+          "opacity": 64.341621411003
         },
         {
           "name": "aromático",
           "background": "#37a089",
           "textColor": "#000000",
-          "width": "54.67965760028%",
-          "opacity": 61.153992228812
+          "width": "54.679589898449%",
+          "opacity": 61.15393419867
         },
         {
           "name": "avainillado",
           "background": "#FFFEC0",
           "textColor": "#000000",
-          "width": "49.055430580307%",
-          "opacity": 56.333226211692
+          "width": "49.055451379587%",
+          "opacity": 56.333244039646
         },
         {
           "name": "amaderado",
           "background": "#774414",
           "textColor": "#FFFFFF",
-          "width": "46.738730316398%",
-          "opacity": 54.347483128341
+          "width": "46.738426320532%",
+          "opacity": 54.347222560456
+        }
+      ]
+    },
+    {
+      "id": 52802,
+      "index": 11,
+      "name": "STRONGER WITH YOU INTENSELY 100 ML",
+      "brand": "Giorgio Armani",
+      "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.65.jpg",
+      "price": 400,
+      "currency": "PEN",
+      "gender": "Hombre",
+      "image": "https://fimgs.net/mdimg/perfume-thumbs/375x500.52802.2x.jpg",
+      "url": "https://www.fragrantica.es/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Intensely--52802.html",
+      "accords": [
+        {
+          "name": "avainillado",
+          "background": "#FFFEC0",
+          "textColor": "#000000",
+          "width": "100%",
+          "opacity": 100.0
+        },
+        {
+          "name": "avainillado",
+          "background": "#FFFEC0",
+          "textColor": "#000000",
+          "width": "100%",
+          "opacity": 100.0
+        },
+        {
+          "name": "dulce",
+          "background": "#ee363b",
+          "textColor": "#FFFFFF",
+          "width": "92.252778926526%",
+          "opacity": 93.359524794165
+        },
+        {
+          "name": "ámbar",
+          "background": "#bc4d10",
+          "textColor": "#FFFFFF",
+          "width": "71.762973545371%",
+          "opacity": 75.796834467461
+        },
+        {
+          "name": "canela",
+          "background": "#D2691E",
+          "textColor": "#FFFFFF",
+          "width": "69.515520633608%",
+          "opacity": 73.870446257378
+        },
+        {
+          "name": "cálido especiado",
+          "background": "#CC3300",
+          "textColor": "#FFFFFF",
+          "width": "66.771119215008%",
+          "opacity": 71.518102184293
+        },
+        {
+          "name": "atalcado",
+          "background": "#EEDDCC",
+          "textColor": "#000000",
+          "width": "58.860734112811%",
+          "opacity": 64.737772096695
+        },
+        {
+          "name": "aromático",
+          "background": "#37a089",
+          "textColor": "#000000",
+          "width": "56.57556048473%",
+          "opacity": 62.779051844054
+        },
+        {
+          "name": "especiado suave",
+          "background": "#E27752",
+          "textColor": "#000000",
+          "width": "54.426795493565%",
+          "opacity": 60.937253280199
+        },
+        {
+          "name": "caramelo",
+          "background": "#DDA356",
+          "textColor": "#000000",
+          "width": "48.149366517538%",
+          "opacity": 55.556599872176
+        }
+      ]
+    },
+    {
+      "id": 72158,
+      "index": 12,
+      "name": "LE BEAU LE PARFUM 100 ML",
+      "brand": "Jean Paul Gaultier",
+      "brandLogo": "https://fimgs.net/mdimg/dizajneri/m.72.jpg",
+      "price": 520,
+      "currency": "PEN",
+      "gender": "Hombre",
+      "image": "https://fimgs.net/mdimg/perfume-thumbs/375x500.72158.2x.jpg",
+      "url": "https://www.fragrantica.es/perfume/Jean-Paul-Gaultier/Le-Beau-Le-Parfum-72158.html",
+      "accords": [
+        {
+          "name": "dulce",
+          "background": "#ee363b",
+          "textColor": "#FFFFFF",
+          "width": "100%",
+          "opacity": 100.0
+        },
+        {
+          "name": "dulce",
+          "background": "#ee363b",
+          "textColor": "#FFFFFF",
+          "width": "100%",
+          "opacity": 100.0
+        },
+        {
+          "name": "amaderado",
+          "background": "#774414",
+          "textColor": "#FFFFFF",
+          "width": "97.480240933138%",
+          "opacity": 97.840206514118
+        },
+        {
+          "name": "coco",
+          "background": "#f1e8d4",
+          "textColor": "#000000",
+          "width": "90.928755816177%",
+          "opacity": 92.224647842437
+        },
+        {
+          "name": "ámbar",
+          "background": "#bc4d10",
+          "textColor": "#FFFFFF",
+          "width": "78.046640958633%",
+          "opacity": 81.1828351074
+        },
+        {
+          "name": "avainillado",
+          "background": "#FFFEC0",
+          "textColor": "#000000",
+          "width": "71.69258716298%",
+          "opacity": 75.736503282555
+        },
+        {
+          "name": "tropical",
+          "background": "#f6af09",
+          "textColor": "#000000",
+          "width": "68.434412645803%",
+          "opacity": 72.943782267831
+        },
+        {
+          "name": "afrutados",
+          "background": "#FC4B29",
+          "textColor": "#000000",
+          "width": "67.987124737077%",
+          "opacity": 72.56039263178
+        },
+        {
+          "name": "atalcado",
+          "background": "#EEDDCC",
+          "textColor": "#000000",
+          "width": "57.619749506023%",
+          "opacity": 63.674071005163
+        },
+        {
+          "name": "iris",
+          "background": "#b7a7d7",
+          "textColor": "#000000",
+          "width": "51.673385811715%",
+          "opacity": 58.577187838613
+        },
+        {
+          "name": "lactónico",
+          "background": "#fbf9f2",
+          "textColor": "#000000",
+          "width": "51.324813563643%",
+          "opacity": 58.27841162598
         }
       ]
     }
