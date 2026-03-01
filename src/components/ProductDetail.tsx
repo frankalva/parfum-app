@@ -125,7 +125,7 @@ export default function ProductDetail({ perfume, onClose }: ProductDetailProps) 
               <button
                 onClick={() => {
                   const message = `Hola, me interesa el perfume ${perfume.name} de ${perfume.brand} - ${formatPrice(perfume.price, perfume.currency)}`;
-                  const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(message)}`;
+                  const whatsappUrl = `https://wa.me/51947828967?text=${encodeURIComponent(message)}`;
                   window.open(whatsappUrl, "_blank");
                 }}
                 className="w-full bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-3 text-sm rounded-lg flex items-center justify-center gap-2 transition-colors"
